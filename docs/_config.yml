@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+webrick:
+  headers:
+    My-Header: value
+    My-Other-Header: other-value
